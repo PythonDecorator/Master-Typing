@@ -5,13 +5,14 @@
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
 --- 
-
+![Thumnail.png](demo%2FThumnail.png)
 ## Table of Contents
 
 * [Overview](#overview)
 * [Demo](#demo)
 * [Documentation](#documentation)
 * [Features](#features)
+* * [Flow Chart](#flow-chart)
 * [Converting to Executable](#converting-to-executable)
 * [Controls](#Controls)
 * [Licensing](#license)
@@ -24,25 +25,26 @@
 
 ## Overview
 
-Master Typing is a dynamic and user-friendly typing practice application developed using the CustomTkinter library in
-Python.
+Master Typing is a dynamic and user-friendly typing practice application developed in Python.
 
 The purpose of this project is to help users improve their typing speed and accuracy through engaging and customizable
 typing exercises. Whether you're a beginner looking to enhance your typing skills or a professional aiming to type
 faster, Master Typing provides a platform for focused practice and skill refinement.
 
+<br />
+
 ## Demo
 
-![demo-blog.gif](apps/static/assets/demo/demo-blog.gif)
+![Master Typing Demo00.gif](demo%2FMaster%20Typing%20Demo00.gif)
 
-- **Download the One file .exe file from the dist or download folder**
+- **Download the One file .exe file from the dist folder**
 - **You don't need to install anything, just download, click and start playing.**
 
 <br />
 
 ## Features
 
-> Features
+> Some Main Features
 
 1. ✅ `User-Friendly Interface`: Appealing interface that allows users to select duration, view their progress, and
    access various settings.
@@ -58,9 +60,15 @@ faster, Master Typing provides a platform for focused practice and skill refinem
 5. ✅ `Word Count`: Keep track of users' correctly typed words, allowing them to monitor their progress and identify
    areas for improvement.
 
-6. ✅ `Reset`: Provide options reset or restart, giving users control over their practice experience.
+6. ✅ `Reset`: Provided options reset or restart, giving users control over their practice experience.
 
 <br />
+
+## Flow Chart
+![Master Typing App FlowChart.png](files%2Fflow%20chart%2FMaster%20Typing%20App%20FlowChart.png)
+
+<br />
+
 
 ## Documentation
 
@@ -105,15 +113,22 @@ $ pyinstaller main.spec
 
 ## Controls
 
+
 Press the left or right key to control the paddle.
+
+<br />
 
 ## License
 
 This project is licensed under the MIT license. See also the attached LICENSE file.
 
+<br />
+
 ## Reporting Issues
 
 GitHub Issues is the official bug tracker for the Master Typing.
+
+<br />
 
 ## Technical Support or Questions
 
@@ -122,6 +137,8 @@ If you have questions contact me [okpeamos.ao@gmail.com]() instead of opening an
 Make sure that you are using the latest version of the Master Typing. Check the CHANGELOG
 Provide reproducible steps for the issue will shorten the time it takes for it to be fixed.
 
+<br />
+
 ## For Open Source
 
 The "Master Typing" project offers an excellent opportunity to create a useful and interactive typing practice
@@ -129,6 +146,8 @@ application using the CustomTkinter library in Python. By building this app, you
 development, event handling, and user interface design. Whether you're looking to create a tool for personal improvement
 or you want to contribute to the typing practice community, Master Typing allows you to combine technical proficiency
 with a focus on helping users develop a valuable skill.
+
+<br />
 
 ## Social Media
 
