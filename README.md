@@ -10,9 +10,9 @@
 
 * [Overview](#overview)
 * [Demo](#demo)
-* [Documentation](#documentation)
 * [Features](#features)
-* * [Flow Chart](#flow-chart)
+* [Documentation](#documentation)
+* [Flow Chart](#flow-chart)
 * [Converting to Executable](#converting-to-executable)
 * [Controls](#Controls)
 * [Licensing](#license)
@@ -38,7 +38,7 @@ faster, Master Typing provides a platform for focused practice and skill refinem
 ![Master Typing Demo00.gif](demo%2FMaster%20Typing%20Demo00.gif)
 
 - **Download the One file .exe file from the dist folder**
-- **You don't need to install anything, just download, click and start playing.**
+- **You don't need to install anything, just download and start typing**
 
 <br />
 
@@ -111,12 +111,6 @@ $ pyinstaller main.spec
 
 <br />
 
-## Controls
-
-
-Press the left or right key to control the paddle.
-
-<br />
 
 ## License
 
@@ -132,7 +126,7 @@ GitHub Issues is the official bug tracker for the Master Typing.
 
 ## Technical Support or Questions
 
-If you have questions contact me [okpeamos.ao@gmail.com]() instead of opening an issue.
+If you have questions contact me `okpeamos.ao@gmail.com`
 
 Make sure that you are using the latest version of the Master Typing. Check the CHANGELOG
 Provide reproducible steps for the issue will shorten the time it takes for it to be fixed.
